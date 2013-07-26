@@ -7,6 +7,13 @@ ractive-rails
 gem ractive-rails
 ```
 
+### Extensions supported
+
+```
+template.rac
+template.ractive
+```
+
 ### Client side
 
 ```javascript
