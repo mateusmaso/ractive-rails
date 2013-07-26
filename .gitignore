@@ -1,0 +1,12 @@
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+InstalledFiles
+_yardoc
+coverage
+pkg
+rdoc
+tags
+tmp
