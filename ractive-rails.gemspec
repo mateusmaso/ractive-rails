@@ -19,5 +19,4 @@ Gem::Specification.new do |spec|
   spec.add_dependency "tilt", ">= 1.3"
   spec.add_dependency 'execjs', ">= 1.3"
   spec.add_dependency "sprockets", ">= 2.0"
-
 end
