@@ -1,0 +1,1 @@
+require 'ractive/rails'
