@@ -1,3 +1,4 @@
+require 'tilt'
 module Ractive
   module Rails
     class Tilt < Tilt::Template
